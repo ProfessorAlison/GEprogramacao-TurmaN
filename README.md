@@ -1,12 +1,11 @@
 ## GEprogramacao-TurmaN
 
-- Qual é o projeto?
-- No que ele está sendo melhorado ou etapa está?
-- Qual aplicativos usei para programar
-- Quem são os colaboradores do projeto?
+- O projeto é o site de uma <strong> Barbearia </strong>
+- Será possivel escolher os "produtos" (corte cabelo e barba).
+- Será usado o programa Sublime e a linguagem HTML
+- Quem vai projetar será eu, <strong> Alison </strong> 
 - Licença de uso MIT.
-- **negrito**
-- <strong> negrito </strong>
+
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://theclutch.com.br/wp-content/uploads/2021/07/Joinha-Day.jpg)
