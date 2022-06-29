@@ -7,5 +7,5 @@
 - Licença de uso MIT.
 
 
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://theclutch.com.br/wp-content/uploads/2021/07/Joinha-Day.jpg)
+- ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![](https://theclutch.com.br/wp-content/uploads/2021/07/Joinha-Day.jpg)
