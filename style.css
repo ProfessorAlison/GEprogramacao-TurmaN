@@ -1,7 +1,18 @@
-body {
+body{
 	background-color: #303030;
 }
+
+header, footer {
+	background-color: rgb(40, 40, 40);
+}
+
+
 h1 {
+	text-align: center;
+	color: white
+}
+
+h2 {
 	text-align: center;
 	color: white
 }
