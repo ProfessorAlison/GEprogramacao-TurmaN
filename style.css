@@ -12,14 +12,23 @@ h1 {
 	color: white
 }
 
+#imagemprincipal {
+	width: 94%;
+	height: 300px;
+	margin: 20px;
+	border: 3px solid #303030;
+	padding: 20px;
+}
+
 h2 {
 	text-align: center;
 	color: white
 }
 
-em {
+#paragrafodiferente {
 	color: red;
 	font-size: 24px;
+	text-align: center
 	}
 p {
 	color: white;
